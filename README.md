@@ -17,9 +17,9 @@ Feel free to use this cheat sheet to simplify your Linux experience. If you find
 
 **1. ls - List Files and Directories:**
 
-ls: Lists files and directories in the current directory.  
-ls -l: Lists files and directories in long format, showing details like permissions, owner, size, and modification date.  
-ls -a: Lists all files, including hidden files (those starting with a dot .).  
-ls -R: Lists files in sub-directories as well.  
+**ls:** Lists files and directories in the current directory.  
+**ls -l:** Lists files and directories in long format, showing details like permissions, owner, size, and modification date.  
+**ls -a:** Lists all files, including hidden files (those starting with a dot .).  
+**ls -R:** Lists files in sub-directories as well.  
 
 </details>
