@@ -1,4 +1,5 @@
-# LinuxCommandsCheatSheet
+## Linux Commands CheatSheet
+
 ### Description:
 Welcome to my Linux Commands Cheat Sheet repository. This is a straightforward and personal collection of essential Linux commands and their usage. I've put this together to make working with Linux a bit easier for myself and anyone else who finds it useful.
 
@@ -12,14 +13,23 @@ Welcome to my Linux Commands Cheat Sheet repository. This is a straightforward a
 
 Feel free to use this cheat sheet to simplify your Linux experience. If you find it helpful, consider giving it a star and sharing it with others in the Linux community. Enjoy!
 
-<details>
-<summary><h1>Basic Commands<h1></h1></summary>
+---------------------------------------------------------------------------------------------------------------
 
-**1. ls - List Files and Directories:**
+## Welcome to the Linux command cheatsheet.   
+Below are some commonly used Linux commands and their descriptions.
 
-**ls:** Lists files and directories in the current directory.  
-**ls -l:** Lists files and directories in long format, showing details like permissions, owner, size, and modification date.  
-**ls -a:** Lists all files, including hidden files (those starting with a dot .).  
-**ls -R:** Lists files in sub-directories as well.  
+## File and Directory Operations
 
-</details>
+
+| Command               | Description                                           | Parameters                                         |
+|-----------------------|-------------------------------------------------------|----------------------------------------------------|
+| `ls`                  | List files and directories in the current directory. | `-l` (long format), `-a` (including hidden files)  |
+| `cd <directory>`      | Change the current working directory.               |                                                    |
+| `pwd`                 | Display the current working directory.              |                                                    |
+| `touch <filename>`    | Create an empty file.                                |                                                    |
+| `mkdir <directory>`   | Create a new directory.                              | `-p` (create parent directories if they don't exist) |
+| `rmdir <directory>`   | Remove an empty directory.                           |                                                    |
+| `rm <file/directory>` | Remove a file or directory.                          | `-r` (recursive), `-f` (force)                     |
+| `cp <source> <dest>`  | Copy files or directories.                           | `-r` (for directories), `-i` (interactive mode)   |
+| `mv <source> <dest>`  | Move/rename files or directories.                    |                                                    |
+
