@@ -13,7 +13,7 @@ Welcome to my Linux Commands Cheat Sheet repository. This is a straightforward a
 Feel free to use this cheat sheet to simplify your Linux experience. If you find it helpful, consider giving it a star and sharing it with others in the Linux community. Enjoy!
 
 <details>
-<summary><h1 style="color:red">Basic Commands<h1></h1></summary>
+<summary><h1>Basic Commands<h1></h1></summary>
 
 **1. ls - List Files and Directories:**
 
