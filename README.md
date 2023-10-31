@@ -11,3 +11,15 @@ Welcome to my Linux Commands Cheat Sheet repository. This is a straightforward a
 **Regular Updates:** Linux is always changing, so I'll keep this cheat sheet up to date with the latest and greatest.
 
 Feel free to use this cheat sheet to simplify your Linux experience. If you find it helpful, consider giving it a star and sharing it with others in the Linux community. Enjoy!
+
+<details>
+<summary><h1>Basic Commands<h1></h1></summary>
+
+**1. ls - List Files and Directories:**
+
+ls: Lists files and directories in the current directory.  
+ls -l: Lists files and directories in long format, showing details like permissions, owner, size, and modification date.  
+ls -a: Lists all files, including hidden files (those starting with a dot .).  
+ls -R: Lists files in sub-directories as well.  
+
+</details>
