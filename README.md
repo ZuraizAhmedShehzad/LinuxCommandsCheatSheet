@@ -18,13 +18,12 @@ Feel free to use this cheat sheet to simplify your Linux experience. If you find
 ## Welcome to the Linux command cheatsheet.   
 Below are some commonly used Linux commands and their descriptions.
 
-## File and Directory Operations
-
 
 | Command               | Description                                           | Parameters                                         |
 |-----------------------|-------------------------------------------------------|----------------------------------------------------|
 | `ls`                  | List files and directories in the current directory. | `-l` (long format), `-a` (including hidden files)  |
 | `cd <directory>`      | Change the current working directory.               |                                                    |
+| `cd ..`               | Change the current working directory to a to the directory immediately above the current directory.|                                                    |
 | `pwd`                 | Display the current working directory.              |                                                    |
 | `touch <filename>`    | Create an empty file.                                |                                                    |
 | `mkdir <directory>`   | Create a new directory.                              | `-p` (create parent directories if they don't exist) |
@@ -32,4 +31,5 @@ Below are some commonly used Linux commands and their descriptions.
 | `rm <file/directory>` | Remove a file or directory.                          | `-r` (recursive), `-f` (force)                     |
 | `cp <source> <dest>`  | Copy files or directories.                           | `-r` (for directories), `-i` (interactive mode)   |
 | `mv <source> <dest>`  | Move/rename files or directories.                    |                                                    |
+| `vi <filename>`       | Open file in vim editor.                             |                                                    |
 
